@@ -20,7 +20,8 @@ heading.style.fontSize = "2em";
 
 // Question 4:
 
-
+var heading = document.getElementById("uno");
+heading.className += " subheading";
 
 // Question 5:
 
